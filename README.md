@@ -2,7 +2,6 @@
 
 - 🔭 Migrando da área comercial para front-end
 - 🌱 Estudando: HTML, CSS e JavaScript 
-- 📫 linkedin: https://www.linkedin.com/in/ginivan-souza-635a47180/
 - 😄 Pronouns: ele/dele
 
 <div align="center">
